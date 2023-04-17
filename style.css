@@ -1,0 +1,48 @@
+h1{
+    /*margin : 0 auto;*/
+    text-align: center;
+}
+div.star{
+    width : 300px;
+    
+    height: 300px;
+}
+img{
+    max-width: 100%;
+
+    
+    overflow: auto;
+}
+span.sejong{
+    font-weight: bold;
+    color: red;
+}
+p.sejong{
+    text-align: center;
+
+}
+
+h2{
+    color: violet;
+    font-style: oblique;
+    text-align: center;
+}
+
+.black{
+color: black
+}
+
+div.intro,div.star{
+    
+    float: left;
+}
+div.intro{
+
+background-color:antiquewhite;
+margin : 10px;
+width : 400px;
+height : 300px;
+
+color :cornflowerblue;
+font-size: larger;
+}
